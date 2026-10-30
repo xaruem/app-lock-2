@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SimMenu" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#FF0F0F12</item>
+        <item name="android:navigationBarColor">#FF0F0F12</item>
+        <item name="android:windowBackground">#FF0F0F12</item>
+    </style>
+</resources>
